@@ -1,24 +1,18 @@
-# perguntas-vue
+# Perguntas & Respostas Vue
+Perguntas & Respostas (Vue 2, VueX, BootstrapVue, Axios)
 
-## Project setup
-```
-npm install
-```
+## Frontend:
+- npm install
+- npm run serve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tecnologias
+- Vue 2
+- VueX
+- BootstrapVue
+- Axios
+- Vuelidate
+- V-Mask
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Link:
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- <a href="https://perguntas-vue.vercel.app/" target="_blank">Perguntas & Respostas Vue</a>
